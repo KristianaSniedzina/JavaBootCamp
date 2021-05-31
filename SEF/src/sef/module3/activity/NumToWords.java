@@ -13,15 +13,15 @@ public class NumToWords {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		
-		for ( int i = 1; i < 11; i++ ) {
+		//it starts form 1 and then there is limit. i++ will increase by 1
+		for ( int i = 1; i <= 51; i++ ) {
 			System.out.println ( "The value of i is:- " + i );
 		}
 
 		
 		
 				
-		int i = 2;
+		int i = 5;
 		String numText ;
 		switch(i) {
 		case 1:
