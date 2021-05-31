@@ -3,7 +3,7 @@
   <component name="CompilerConfiguration">
     <excludeFromCompile>
       <directory url="file://$PROJECT_DIR$/src/sef/module2" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/sef/module3" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/sef/module3" includeSubdirectories="false" />
       <directory url="file://$PROJECT_DIR$/src/sef/module4" includeSubdirectories="false" />
       <directory url="file://$PROJECT_DIR$/src/sef/module5" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/sef/module6" includeSubdirectories="true" />
