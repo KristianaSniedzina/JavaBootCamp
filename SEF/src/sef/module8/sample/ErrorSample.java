@@ -10,14 +10,12 @@ public class ErrorSample {
 			System.out.println("I can't divide number by 0");
 		}
 		//infinity();
-		
-		
 	}
 	
 	//Below method calls itself and
 	//it happens infinite times because there is no exit condition
 	//At one point in time, JVM would give up and show StackOverflowError
-	
+
 	
 	public static int divide(int a, int b) {
 		return a/b;		

@@ -9,16 +9,15 @@ public static void main(String[] args) {
 void divide(int num1,int num2)
 {
 	try{
-	System.out.println(num1/num2);	
-	}
-	catch(Exception e)
-	{
-		System.out.println("Exception!!!");
+	System.out.println(10/0);
 	}
 	catch(ArithmeticException a)
 	{
 		System.out.println("Division by zero is not allowed");
 	}
-	
+	catch(Exception e)
+	{
+		System.out.println("Exception!!!");
+	}
 }
 }

@@ -12,17 +12,19 @@ public class CheckedExceptionSample {
 		//The following class is used to open a file for reading
 		FileReader reader ;
 		
-		try{
-		//The following line must be written in a try catch block
+		try {
+			//The following line must be written in a try catch block
 			//else it would not compile since
 			//FilenotFoundException is a checked exception. 
 			//1 - Instantiate reader and pass fileName as a parameter
 			reader = new FileReader(fileName);
-			
-			
-		}catch (FileNotFoundException e) {
-			System.out.println("file " + fileName + " not found");
+
+
+//		}catch (FileNotFoundException e) {
+//			System.out.println("file " + fileName + " not found");
+//		}
+			//2 - catch FileNotFoundException
 		}
-		//2 - catch FileNotFoundException 
+		catch (FileNotFoundException fe){}
 	}
 }
