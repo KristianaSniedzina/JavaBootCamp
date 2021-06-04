@@ -5,49 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="708b4f18-29ba-47df-831c-d6aa3e6a6298" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sef/module7/activity/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sef/module7/activity/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sef/module7/activity/DrivingActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sef/module7/activity/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sef/module7/activity/Moving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/FinalActivity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/FinalActivity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/FinalActivity/Students.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/activity/AbstractionActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/activity/Employee_I.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/activity/InheritanceActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/activity/Person_I.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/activity/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/activity/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/activity/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/AbstractionSample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Employee_A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/InheritanceSample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/InterfaceSample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Lion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Moveable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Person_A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Person_I.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Person_P.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/PolymorphismSample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/ReferenceCastingSample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Student_A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Student_I.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Student_P.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/VirtualMethodSample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sef/module7/sample/General.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module7/sample/General.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sef/module7/sample/PersonSampleTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module7/sample/PersonSampleTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sef/module7/sample/SetterGetterSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module7/sample/SetterGetterSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sef/module7/sample/StrategySample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module7/sample/StrategySample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sef/module8/activity/ArithmeticExceptionActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module8/activity/ArithmeticExceptionActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sef/module8/activity/CustomExceptionActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module8/activity/CustomExceptionActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sef/module8/activity/CustomExceptionActivityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module8/activity/CustomExceptionActivityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sef/module8/activity/ExceptionSequenceActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module8/activity/ExceptionSequenceActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sef/module8/activity/SQLExceptionActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module8/activity/SQLExceptionActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sef/module8/activity/TryCatchFinallyActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module8/activity/TryCatchFinallyActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sef/module8/sample/ArrayExceptionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module8/sample/ArrayExceptionSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sef/module8/sample/CheckedExceptionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module8/sample/CheckedExceptionSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sef/module8/sample/ErrorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module8/sample/ErrorSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/activity/ArithmeticExceptionActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/activity/CustomExceptionActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/activity/CustomExceptionActivityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/activity/ExceptionSequenceActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/activity/SQLExceptionActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/activity/TryCatchFinallyActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/sample/ArrayExceptionSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/sample/AssertSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/sample/CheckedExceptionSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/sample/CustomException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/sample/CustomExceptionSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/sample/ErrorSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/sample/ExceptionDeclarationSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/sample/TryCatchFinallySample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module17/activity/EmployeeJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module17/activity/EmployeeJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module9/activity/ListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module9/activity/ListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module9/activity/ListActivityTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module9/activity/ListActivityTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module9/activity/MapActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module9/activity/MapActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module9/activity/SetActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module9/activity/SetActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module9/sample/ListSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module9/sample/ListSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module9/sample/SetSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module9/sample/SetSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module9/sample/test/ListActivityTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module9/sample/test/ListActivityTest2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,13 +71,13 @@
       <recent name="sef.module3.activity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TryCatchFinallyActivity">
-    <configuration name="ArrayExceptionSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sef.module8.sample.ArrayExceptionSample" />
+  <component name="RunManager" selected="Application.SetActivity">
+    <configuration name="ListActivity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sef.module9.activity.ListActivity" />
       <module name="SEF" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sef.module8.sample.*" />
+          <option name="PATTERN" value="sef.module9.activity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomExceptionActivityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sef.module8.activity.CustomExceptionActivityTest" />
+    <configuration name="ListSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sef.module9.sample.ListSample" />
       <module name="SEF" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sef.module8.activity.*" />
+          <option name="PATTERN" value="sef.module9.sample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionSequenceActivity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sef.module8.activity.ExceptionSequenceActivity" />
+    <configuration name="MapActivity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sef.module9.activity.MapActivity" />
       <module name="SEF" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sef.module8.activity.*" />
+          <option name="PATTERN" value="sef.module9.activity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryCatchFinallyActivity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sef.module8.activity.TryCatchFinallyActivity" />
+    <configuration name="MapSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sef.module9.sample.MapSample" />
       <module name="SEF" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sef.module8.activity.*" />
+          <option name="PATTERN" value="sef.module9.sample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryCatchFinallySample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sef.module8.sample.TryCatchFinallySample" />
+    <configuration name="SetActivity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sef.module9.activity.SetActivity" />
       <module name="SEF" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sef.module8.sample.*" />
+          <option name="PATTERN" value="sef.module9.activity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,19 +146,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.activity" />
-      <item itemvalue="Application.ExceptionSequenceActivity" />
-      <item itemvalue="Application.CustomExceptionActivityTest" />
-      <item itemvalue="Application.TryCatchFinallyActivity" />
-      <item itemvalue="Application.ArrayExceptionSample" />
-      <item itemvalue="Application.TryCatchFinallySample" />
+      <item itemvalue="Application.ListSample" />
+      <item itemvalue="Application.ListActivity" />
+      <item itemvalue="Application.MapSample" />
+      <item itemvalue="Application.MapActivity" />
+      <item itemvalue="Application.SetActivity" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TryCatchFinallyActivity" />
-        <item itemvalue="Application.TryCatchFinallySample" />
-        <item itemvalue="Application.ArrayExceptionSample" />
-        <item itemvalue="Application.ExceptionSequenceActivity" />
-        <item itemvalue="Application.CustomExceptionActivityTest" />
+        <item itemvalue="Application.SetActivity" />
+        <item itemvalue="Application.MapActivity" />
+        <item itemvalue="Application.ListActivity" />
+        <item itemvalue="Application.MapSample" />
+        <item itemvalue="Application.ListSample" />
       </list>
     </recent_temporary>
   </component>

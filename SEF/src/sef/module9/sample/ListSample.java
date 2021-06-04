@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.ArrayList;
 
 public class ListSample {
+
 	public static void main(String[] args) {
 
 		//Create an ArrayList
@@ -47,7 +48,7 @@ public class ListSample {
 	    obj.print(list);
 	}
 
-	void print(List l)
+	public void print(List l)
 	{
 		//Iterator is an interface which provides a uniform way to access
 		//individual elements of a Collection
