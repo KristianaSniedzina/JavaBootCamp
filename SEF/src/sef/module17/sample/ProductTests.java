@@ -17,6 +17,8 @@ public class ProductTests extends TestCase {
         assertEquals(testDescription, product.getDescription());
     }
 
+
+
     public void testSetAndGetPrice() {
         double testPrice = 100.00;
         assertEquals(0, 0, 0);    
